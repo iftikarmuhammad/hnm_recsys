@@ -12,3 +12,7 @@ Link :https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommend
 - TensorFlow Recommenders (TFRS)
 - Pandas
 - NumPy
+
+
+## Evaluation:
+MAP@12 score of 0.01412.
